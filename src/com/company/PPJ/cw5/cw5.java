@@ -1,4 +1,5 @@
-package PPJ.cw5;
+
+package com.company.PPJ.cw5;
 
 public class cw5 {
 

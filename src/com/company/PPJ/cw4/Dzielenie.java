@@ -1,4 +1,4 @@
-package PPJ.cw4;
+package com.company.PPJ.cw4;
 
 import java.util.Scanner;
 
